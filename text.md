@@ -24,7 +24,7 @@ Status-quo: Католическая церковь по главе с Папо�
 
 Реформация: началось с координационных игр в альтернативные верования, борьба привела к разделу сфер влияния по границам официально принятых религий (cuius regio, eius religio). Из всего пула креативных верований официально приняты только те, что в разумной мере оспаривают Католицизм. Было полно безумных и утопических версий, которые прожили не долго:
 
-Утопический пример:
+Утопический пример [[1]](#src1):
 >    More than any other group at the time, the Hutterites came to
 > centre their community life on a group of elders under a principal
 > whom they called a bishop: these elders were responsible for a
@@ -45,7 +45,7 @@ Status-quo: Католическая церковь по главе с Папо�
 
 Cherry-picked example, but a delicious one:
 
-[Из воспоминаний Черчиля]
+[Из воспоминаний Черчиля] [[2]](#src2)
 
 > While this was being translated I wrote out on a half-sheet of paper:
 > Rumania— Russia 90%; the others 10%; Greece—Great Britain 90% (in
@@ -80,7 +80,7 @@ Cherry-picked example, but a delicious one:
 > underdeveloped, and devastated by the war to supply East-Central
 > Europe’s economic needs, wanted trade, loans, and investment from the
 > West to develop the area but stopped short of allowing its neighbors
-> to be integrated into a Western economic bloc.
+> to be integrated into a Western economic bloc. [[2]](#src2)
 
 Когда bargaining Советов vis-à-vis US, UK и восточно-европейских правительств в целом не привел к ожидаемым исходам, Сталин постепенно вернулся к политике террора во внутренних делах и к насильственной инсталляции
 просоветских режимов в ближней Европе (при этом вел себя очень аккуратно и послушно на территориях, входящих в сферу интересов Союзников). Анти-капиталистический нарратив обрел прежнюю силу. 
@@ -116,4 +116,6 @@ incentives для более тесного сотрудничества вну�
 Еще сложнее - кластер корпораций, диверсифицированный между разными юрисдикциями. 
 Нечто вроде modern patronage networks. 
 
-
+\
+<a name="src1">[1] [Reformation: Europe's House Divided 1490-1700, D MacCulloch, 2003](https://www.amazon.com/Reformation-Europes-House-Divided-1490-1700/dp/0140285342)</a><br>
+<a name="src2">[2] [The Soviet Experiment. Russia, the USSR, and the Successor States, RG Suny, 2011](https://www.amazon.com/Soviet-Experiment-Russia-Successor-States/dp/0195340558/ref=sr_1_1?keywords=soviet+experiment&qid=1648848942&sprefix=soviet+exp%2Caps%2C239&sr=8-1)</a>
