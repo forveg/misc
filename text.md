@@ -76,12 +76,12 @@ Cherry-picked example, but a delicious one:
   
 
 > When the war ended, Communist parties officially went only as far as
-> calling for social reforms and did not place socialism on the agenda.  
-> <...> 
+> calling for social reforms and did not place socialism on the agenda.
+> <...>  
 > The moderate tactics of Communists on the ground conformed to
 > the overall strategy of Stalin not to antagonize the Western powers
-> and to secure their agreement to Soviet hegemony in Eastern Europe.  
-> <...> 
+> and to secure their agreement to Soviet hegemony in Eastern Europe.
+> <...>  
 > For the first few postwar years no economic Iron Curtain cut
 > Eastern Europe off from the West. Th e Soviet Union, too poor,
 > underdeveloped, and devastated by the war to supply East-Central
